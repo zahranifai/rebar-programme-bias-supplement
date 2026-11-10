@@ -1,1 +1,15 @@
-
+{
+  "title": "Supplemental Materials for: Programme-Dependent Bias and Uncertainty in Mass-Loss-Based Estimates of Retained Ultimate Strength of Artificially Corroded Reinforcing Steel",
+  "upload_type": "dataset",
+  "description": "Supplemental materials (SM1: PDF with Supplemental Methods S1-S2, Figs. S1-S8 and Tables S1, S3-S7, S9-S14; SM2: ZIP of CSV data) for the manuscript Programme-Dependent Bias and Uncertainty in Mass-Loss-Based Estimates of Retained Ultimate Strength of Artificially Corroded Reinforcing Steel by F. M. A. Alzahrani. Derived from Matthews, Palermo and Scott (2024), https://doi.org/10.5281/zenodo.12578868 (CC BY 4.0); measured values unchanged.",
+  "version": "1.0",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Alzahrani, Faisal M. A.",
+      "orcid": "0009-0003-3124-346X",
+      "affiliation": "Yanbu Industrial College, Royal Commission for Jubail and Yanbu"
+    }
+  ],
+  "keywords": ["reinforcing steel", "corrosion", "residual tensile strength", "prediction bias", "model uncertainty"]
+}
