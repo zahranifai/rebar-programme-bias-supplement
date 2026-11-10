@@ -1,0 +1,32 @@
+{
+  "title": "Supplemental Materials for: Programme-Dependent Bias and Uncertainty in Mass-Loss-Based Estimates of Retained Ultimate Strength of Artificially Corroded Reinforcing Steel",
+  "upload_type": "dataset",
+  "description": "<p>Supplemental materials for the manuscript \"Programme-Dependent Bias and Uncertainty in Mass-Loss-Based Estimates of Retained Ultimate Strength of Artificially Corroded Reinforcing Steel\" (F. M. A. Alzahrani), prepared for the ASCE–ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering.</p><p><b>Supplementary Material 1</b> (PDF): Supplemental Methods S1–S2, Figs. S1–S8 and Tables S1, S3–S7 and S9–S14. <b>Supplementary Material 2</b> (ZIP of CSV files): main and supplementary tables (including Tables S2 and S8), plotted values of main-text Figs. 2–4, programme-level uncertainty outputs, leave-one-programme-out and record-random held-out predictions for 707 impressed-current-corroded tensile tests from 11 experimental programmes, per-programme results, the derived cohort with source row numbers, protocol metadata, a data dictionary and SHA-256 checksums.</p><p>Derived from Matthews, Palermo and Scott (2024), Monotonic Tensile Testing of Corroded Reinforcing Steel Bars Database, Version 2, https://doi.org/10.5281/zenodo.12578868 (CC BY 4.0); measured values unchanged.</p>",
+  "version": "1.0",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Alzahrani, Faisal M. A.",
+      "orcid": "0009-0003-3124-346X",
+      "affiliation": "Yanbu Industrial College, Royal Commission for Jubail and Yanbu"
+    }
+  ],
+  "keywords": [
+    "reinforcing steel",
+    "corrosion",
+    "residual tensile strength",
+    "prediction bias",
+    "model uncertainty",
+    "leave-one-programme-out validation",
+    "non-conservative prediction"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.12578868",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}

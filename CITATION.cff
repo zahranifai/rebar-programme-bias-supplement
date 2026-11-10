@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite this record and the source dataset."
+title: "Supplemental Materials for: Programme-Dependent Bias and Uncertainty in Mass-Loss-Based Estimates of Retained Ultimate Strength of Artificially Corroded Reinforcing Steel"
+type: dataset
+version: "1.0"
+license: CC-BY-4.0
+authors:
+  - family-names: Alzahrani
+    given-names: "Faisal M. A."
+    orcid: "https://orcid.org/0009-0003-3124-346X"
+    affiliation: "Department of Mechanical Engineering, Yanbu Industrial College, Royal Commission for Jubail and Yanbu, Saudi Arabia"
+# doi: "10.5281/zenodo.XXXXXXX"   <- uncomment and insert the reserved DOI before upload
+keywords: [reinforcing steel, corrosion, residual tensile strength, prediction bias, model uncertainty, leave-one-programme-out validation]
+references:
+  - type: dataset
+    title: "Monotonic Tensile Testing of Corroded Reinforcing Steel Bars Database"
+    version: "2"
+    authors:
+      - family-names: Matthews
+        given-names: B.
+      - family-names: Palermo
+        given-names: A.
+      - family-names: Scott
+        given-names: A.
+    doi: "10.5281/zenodo.12578868"
+    license: CC-BY-4.0
